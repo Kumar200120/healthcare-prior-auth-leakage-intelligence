@@ -470,8 +470,11 @@ It enables users to:
 
 **Kumaresan V**
 **BE - Computer Science & Engineering**
+
 **AF ID:**AF05254165
+
 **Course:** ANP-D3676 – Data and Business Analyst with AI
+
 **Training Organization:** Anudip Foundation
 
 **Skills Used**
