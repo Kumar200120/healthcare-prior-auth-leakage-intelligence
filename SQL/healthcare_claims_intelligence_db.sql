@@ -1,0 +1,1 @@
+USE healthcare_claims_intelligence_db;
