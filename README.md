@@ -468,24 +468,27 @@ It enables users to:
 
 # Author
 
+## Author
+
 **Kumaresan V**
+
 **BE - Computer Science & Engineering**
-**AF ID:**AF05254165
-**Course:** ANP-D3676 – Data and Business Analyst with AI
+
+**AF ID:** AF05254165
+
+**Course:** ANP-D3676 - Data and Business Analyst with AI
+
 **Training Organization:** Anudip Foundation
 
-**Skills Used**
-MySQL
-SQL
-Power BI
-DAX
-Power Query
-ETL
-Data Cleaning
-Data Visualization
-Business Intelligence
-Data Analytics
+### Skills Used
 
+- MySQL
+- SQL
+- Power BI
+- DAX
+- Power Query
+- ETL
+- Data Cleaning
 ---
 
 ## Disclaimer
