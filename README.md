@@ -358,15 +358,13 @@ Healthcare-Prior-Authorization-Intelligence/
 
 ## Page 1 – Executive Dashboard
 
-Add the screenshot of the Executive Dashboard below.
+<img width="898" height="480" alt="Executive Overview Dashboard" src="https://github.com/user-attachments/assets/534e702b-67d8-42fd-9ecd-890f862aa8b8" />
 
-`![Executive Dashboard](Screenshots/executive_dashboard.png)`
 
 ## Page 2 – Investigation Dashboard
 
-Add the screenshot of the Investigation Dashboard below.
+<img width="975" height="522" alt="Investigation   Leakage Analysis Dashboard" src="https://github.com/user-attachments/assets/608b10fb-d352-4032-9ad9-5be848440b19" />
 
-`![Investigation Dashboard](Screenshots/investigation_dashboard.png)`
 
 ---
 
