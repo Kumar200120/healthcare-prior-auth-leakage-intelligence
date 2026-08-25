@@ -203,7 +203,7 @@ The Investigation Dashboard focuses on detailed analysis and prioritization of p
 - Provider Utilization
 - Provider vs Peer Benchmark
 - Authorization vs Actual Claim
-- High-Risk Claims
+- Risk Claims
 - Leakage Amount
 - Investigation Priority
 
@@ -358,15 +358,13 @@ Healthcare-Prior-Authorization-Intelligence/
 
 ## Page 1 – Executive Dashboard
 
-Add the screenshot of the Executive Dashboard below.
+<img width="898" height="480" alt="Executive Overview Dashboard" src="https://github.com/user-attachments/assets/b8c41d0a-7c59-4100-8360-42fef0fd1b4c" />
 
-`![Executive Dashboard](Screenshots/executive_dashboard.png)`
 
 ## Page 2 – Investigation Dashboard
 
-Add the screenshot of the Investigation Dashboard below.
+<img width="975" height="522" alt="Investigation   Leakage Analysis Dashboard" src="https://github.com/user-attachments/assets/e5b5f4f9-ed09-408d-8c4c-42d4ecbc7553" />
 
-`![Investigation Dashboard](Screenshots/investigation_dashboard.png)`
 
 ---
 
@@ -470,13 +468,23 @@ It enables users to:
 
 # Author
 
-**Kumar**
+**Kumaresan V**
+**BE - Computer Science & Engineering**
+**AF ID:**AF05254165
+**Course:** ANP-D3676 – Data and Business Analyst with AI
+**Training Organization:** Anudip Foundation
 
-**Project:** Healthcare Prior Authorization Leakage & Utilization Intelligence Platform
-
-**Industry:** Health Insurance / Payer Analytics
-
-**Tools:** SQL | Power Query | Power BI | DAX | Excel | GitHub
+**Skills Used**
+MySQL
+SQL
+Power BI
+DAX
+Power Query
+ETL
+Data Cleaning
+Data Visualization
+Business Intelligence
+Data Analytics
 
 ---
 
